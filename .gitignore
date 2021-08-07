@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+
+# cocks
+*.odp
+*.odt
+*.pdf
+*.wav
+*.mkv
